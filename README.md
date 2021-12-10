@@ -1,5 +1,5 @@
 ### hi there 👋 im hvck
-- i am another one developer
+i am another one developer
 
 <!--
 **hvckxm/hvckxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## that's u need know about me
-- ⚡ nothing
+⚡ nothing

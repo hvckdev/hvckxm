@@ -1,4 +1,4 @@
-### hi there 👋 im hvck
+## hi there 👋 im hvck
 i am another one junior developer on this world
 
 <!--
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## that's u need know about me
+### that's u need know about me
 ⚡ nothing

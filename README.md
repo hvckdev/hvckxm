@@ -1,5 +1,5 @@
 ## hi there 👋 im hvck
-i am another one junior developer on this world
+i am another one junior developer on this big world
 
 <!--
 **hvckxm/hvckxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

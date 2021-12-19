@@ -20,8 +20,6 @@ i:
 - ⚒  work with php, laravel, yii, mysql, postgresql
 - 🌚  enjoy with python, django
 - 😍  clean architecture, clean code, design patterns
-- 🙃  wanna learn front-end and js (+frameworks like react, vue) but im so lazy for it lul
-
 
 
 

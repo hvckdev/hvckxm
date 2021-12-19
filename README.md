@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### that's u need know about me
-- ⚒ works with: php, laravel, mysql, postgresql
-- 🌚 enjoying: python, django
+i am:
+- ⚒ works with php, laravel, mysql, postgresql
+- 🌚 enjoying with python, django
+- 😍 clean architecture, clean code, design patterns
+- 🙃 wanna learn front-end but im so lazy for it lul
 
 
 

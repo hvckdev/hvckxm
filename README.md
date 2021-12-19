@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 ### that's u need know about me
 i:
-- ⚒  works with php, laravel, mysql, postgresql
-- 🌚  am enjoying with python, django
+- ⚒  work with php, laravel, mysql, postgresql
+- 🌚  enjoy with python, django
 - 😍  clean architecture, clean code, design patterns
-- 🙃  wanna learn front-end but im so lazy for it lul
+- 🙃  wanna learn front-end and js (+frameworks like react, vue) but im so lazy for it lul
 
 
 

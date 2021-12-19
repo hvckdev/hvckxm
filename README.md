@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### that's u need know about me
-⚒ works with: php, laravel, mysql, postgresql
-🌚 enjoying: python, django
+- ⚒ works with: php, laravel, mysql, postgresql
+- 🌚 enjoying: python, django
 
 
 

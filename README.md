@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### that's u need know about me
 i:
-- ⚒  work with php, laravel, mysql, postgresql
+- ⚒  work with php, laravel, yii, mysql, postgresql
 - 🌚  enjoy with python, django
 - 😍  clean architecture, clean code, design patterns
 - 🙃  wanna learn front-end and js (+frameworks like react, vue) but im so lazy for it lul

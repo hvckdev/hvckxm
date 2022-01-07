@@ -24,6 +24,8 @@ i:
 - 🥰  love studying
 
 
+![hvckxm](https://github-readme-stats.vercel.app/api/top-langs/?username=hvckxm&layout=compact&theme=dark)
+
 
 
 

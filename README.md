@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### that's u need know about me
 i:
-- ⚒   work with `php`, `laravel`, `yii`, `mysql`, `postgresql`
+- ⚒   work with `php`, `laravel`, `livewire`, `yii`, `mysql`, `postgresql`
 - 🌚  enjoy with `python`, `django`
 - 🤓  wanna learn `golang`
 - 😍  clean architecture, clean code, design patterns

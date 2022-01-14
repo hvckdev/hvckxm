@@ -1,5 +1,5 @@
 ## hi there 👋 im hvck <img align="right" src="https://komarev.com/ghpvc/?username=hvckxm&label=Profile%20Views%20&color=9f5afd&style=flat-square" alt="hvckxm" />
-i am another one junior developer in this big world
+i am another one junior developer in this big world, that grow up by selfstudying
 
 <!--
 **hvckxm/hvckxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

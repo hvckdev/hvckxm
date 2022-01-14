@@ -24,8 +24,7 @@ i:
 - 🥰  love studying
 
 
-|
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvckxm)](https://github.com/anuraghazra/github-readme-stats) | ![hvckxm](https://github-readme-stats.vercel.app/api/top-langs/?username=hvckxm&layout=compact&theme=dark)
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvckxm)](https://github.com/anuraghazra/github-readme-stats) | ![hvckxm](https://github-readme-stats.vercel.app/api/top-langs/?username=hvckxm&layout=compact&theme=dark)
 | ------------- | ------------- |
 
 

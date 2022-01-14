@@ -9,7 +9,7 @@ i:
 - ⚒   work with `php`, `laravel`, `livewire`, `yii`, `mysql`, `postgresql`
 - 🌚  enjoy with `python`, `django`
 - 🤓  wanna learn `golang`
-- 😍  clean architecture, clean code, design patterns
+- 😍  love clean architecture, clean code, design patterns
 - 🥰  love studying
 
 

@@ -8,7 +8,7 @@ i am another one junior developer in this big world, that grow up by selfstudyin
 i:
 - ⚒   work with `php`, `laravel`, `livewire`, `vue`, `inertia`, `mysql`, `postgresql`, `git`
 - 🌚  enjoy with `python`, `django`
-- 🤓  wanna learn `golang`
+- 🤓  wanna learn `go`
 - 😍  love clean architecture, clean code, design patterns
 - 🥰  love studying
 
